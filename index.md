@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+个人简介
 
-You can use the [editor on GitHub](https://github.com/liyouzhe/liyouzhe.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+姓名：倪潇
+学号：2002010259
+出生年月：2002.3.24
+籍贯：湖南衡阳
+专业：市场营销
+政治面貌：团员
+电子邮件：3125153613@qq.com
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+技能介绍
+英语水平
+四级尚未通过，但可以进行基础沟通
+计算机水平
+准备二级中，自主学习
+兴趣爱好
+热爱打游戏，追剧，出去旅游，喜欢兜风
 
-### Markdown
+教育背景
+中学：耒阳市正源学校
+大学：湖南工商大学
+状态：本科在读
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+主修课程
+市场营销学
+马克思主义经济学
+微积分
+线性代数
 
-```markdown
-Syntax highlighted code block
+获奖情况
+中学多次获得三好学生，以及各种比赛奖项
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liyouzhe/liyouzhe.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+自我评价
+过去的一年里，对大学生活有深刻体会，自由但有所失落，但不管怎么样，对未来还是要带着希望前行
